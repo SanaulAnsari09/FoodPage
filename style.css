@@ -208,7 +208,7 @@
 /* ---------page-3--------- */
 
 .page-3{
-    background-image: url(Assets/bg3.png);
+    background-image: url('Assets/bg3.png');
     height: 60vh;
     width: 100%;
     margin: 50px 0;
@@ -310,7 +310,7 @@
 /* -----------page-5----------- */
 
 .page-5{
-    background-image: url(Assets/bg1.png);
+    background-image: url('Assets/bg1.png');
     height: 110vh;
     width: 100%;
     margin: 50px 0;
@@ -429,7 +429,7 @@
 /* ---------- page-8 ----------- */
 
 .page-8{
-    background-image: url(Assets/bg3.png);
+    background-image: url('Assets/bg3.png');
     height: 100%;
     width: 100%;
     padding: 100px 0;
